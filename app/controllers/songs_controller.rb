@@ -1,6 +1,7 @@
 class SongsController < ApplicationController
 
-  get '/songs'
-end 
-  
-end 
+  get '/songs' do 
+
+  end
+
+end
